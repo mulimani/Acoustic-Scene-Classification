@@ -6,9 +6,6 @@ This repo contains the simple code for [Acoustic Scene Classification](https://d
 
 * torch>=1.11.0
 * numpy>=1.19.5
-* pandas>=1.3.4
-* torchaudio>=0.11.0
-* scikit-learn>=0.24.2
 
 ### Getting started
 
